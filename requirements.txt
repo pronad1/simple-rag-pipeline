@@ -1,0 +1,6 @@
+# Default Dependencies
+pydantic>=2.0.0  # For data validation
+openai>=1.0.0  # For AI service integration
+lancedb==0.22.0
+docling==2.31.0
+cohere==5.15.0
