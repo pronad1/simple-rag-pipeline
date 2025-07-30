@@ -13,6 +13,7 @@ The RAG Framework lets you:
 - **Generate Responses:** Use an AI model (via the OpenAI API) to provide concise answers based on the retrieved context.
 - **Evaluate Responses:** Compare the generated response against expected answers and view the reasoning behind the evaluation.
 
+
 ## Architecture
 
 - **Pipeline (src/rag_pipeline.py):**  
