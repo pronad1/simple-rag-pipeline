@@ -4,6 +4,7 @@ This project is a beginner-friendly tutorial project for building a Retrieval Au
 
 ![rag-image](./rag-design-basic.png)
 
+
 ## Overview
 
 The RAG Framework lets you:
